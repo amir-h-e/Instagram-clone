@@ -13,7 +13,7 @@ const firebaseConfig = {
   projectId: "insta-clone-fcadb",
   storageBucket: "insta-clone-fcadb.appspot.com",
   messagingSenderId: "653617760213",
-  appId: "1:653617760213:web:bc9da4fc65ba36fff69f5c",
+  appId: "1:653617760213:web:2b6d0bbadf121c22f69f5c",
 };
 
 // Initialize Firebase

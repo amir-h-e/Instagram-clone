@@ -9,8 +9,6 @@ import Header from "../../components/Header";
 
 // Browser...
 function signIn({ providers }) {
-  const { data: session } = useSession();
-
   return (
     <>
       <Header />
